@@ -1,2 +1,2 @@
 # xmarket
-基于SpringBoot的分布式商场项目
+基于Spring，SpringMVC，Mybatis的分布式商场项目
